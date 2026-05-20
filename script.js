@@ -8,3 +8,11 @@
 // let 
 // let b = "hooo";
 // console.log(b);
+
+// let c = "hooo";
+// console.log(c);
+
+const d = "hooo";
+//  d = "hooo";
+// const d = "hooo";
+console.log(d);
