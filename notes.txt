@@ -10,15 +10,55 @@
     💻 Syntax:-
         js file ko pahla link karo gha html file sa es tarah <script src="script.js"></script>
         per os ka bath kame chrow karonga js ma.
-🥈 JavaScript Output Methods:-
+🥇JavaScript Output Methods:-
   3️⃣ document.write():-
     📖 Definition:-
         document.write() webpage par direct text show karne ke liye use hota hai.
     💻 Syntax:-
         document.write("Hello World");
   4️⃣ console.log():-
-      📖 Definition:-
+    📖 Definition:-
         console.log() browser console me output show karta hai.
-      💻 Syntax:-     
+    💻 Syntax:-     
         console.log("Hello World");
+🥇Comment in js single line & duble line cammente
+    1️⃣// This is a comment {select one line & contrle /}
+    2️⃣/*This is a commentThis is another line*/ {select all line & contrle /}
+
+
+
+🥇var let const
+    1️⃣ 📖 Definition
+      var JavaScript me variable banane ke liye use hota hai.
+
+    2️⃣ 💻 Syntax
+      var name = "Faiz";
+      
+    3️⃣ 🛠️ Use
+     Old JavaScript me use hota tha
+     Data store karne ke liye
+          
+    8️⃣ 📘 let Keyword  
+      1️⃣ 📖 Definition
+        let modern JavaScript me variable banane ke liye use hota hai.
+
+        2️⃣ 💻 Syntax
+        let age = 18;
+
+        3️⃣ 🛠️ Use
+        - Value change kar sakte hain
+        - Modern projects me use hota hai
+      
+      
+      9️⃣ 📘 const Keyword
+      
+      1️⃣ 📖 Definition
+      const fixed value wala variable banane ke liye use hota hai.
+      
+      2️⃣ 💻 Syntax
+      const country = "Pakistan";
+      
+      3️⃣ 🛠️ Use
+      - Constant value store karne ke liye
+      - Value change nahi hoti
       
