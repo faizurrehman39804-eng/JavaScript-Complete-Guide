@@ -1,0 +1,24 @@
+🥇 JavaScript Add Karne Ke Ways
+  1️⃣ Inline JavaScript.
+    📖 Definition:--
+        Inline JavaScript HTML tag ke andar direct likhi jati hai.
+    💻 Syntax:-
+        <button onclick="alert('Hello')">Click</button>
+  2️⃣ External JavaScript
+    📖 Definition:--        
+        External JavaScript alag script.js file me likhi jati hai.
+    💻 Syntax:-
+        js file ko pahla link karo gha html file sa es tarah <script src="script.js"></script>
+        per os ka bath kame chrow karonga js ma.
+🥈 JavaScript Output Methods:-
+  3️⃣ document.write():-
+    📖 Definition:-
+        document.write() webpage par direct text show karne ke liye use hota hai.
+    💻 Syntax:-
+        document.write("Hello World");
+  4️⃣ console.log():-
+      📖 Definition:-
+        console.log() browser console me output show karta hai.
+      💻 Syntax:-     
+        console.log("Hello World");
+      
