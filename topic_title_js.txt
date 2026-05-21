@@ -24,4 +24,13 @@
 ✨ Object
 ✨ Array
 
-5️⃣
+5️⃣⭐ JavaScript Arithmetic Operators
+
+✨ Addition Operator (+)
+✨ Subtraction Operator (-)
+✨ Multiplication Operator (*)
+✨ Division Operator (/)
+✨ Modulus Operator (%)
+✨ Exponentiation Operator (**)
+✨ Increment Operator (++)
+✨ Decrement Operator (--)

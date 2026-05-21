@@ -58,3 +58,264 @@
       - Value change nahi hoti
       
 🥇⭕⭕⭕✨✨✨JavaScript Data Types
+1️⃣ 📘 String Data Type
+
+   1️⃣ 📖 Definition
+   String text ya characters ko store karta hai.
+
+   2️⃣ 💻 Syntax
+   let name = "Faiz";String
+
+2️⃣ 📘 Number Data Type
+
+   1️⃣ 📖 Definition
+   Number numeric values ko store karta hai.
+
+   2️⃣ 💻 Syntax
+   let age = 18;
+
+   3️⃣ 🛠️ Use
+   - Maths calculations ke liye
+   - Numeric data store karne ke liye
+   --------------------------------------------------
+3️⃣ 📘 Boolean Data Type
+
+   1️⃣ 📖 Definition
+   Boolean sirf true ya false value store karta hai.
+
+   2️⃣ 💻 Syntax
+   let isStudent = true;
+
+   3️⃣ 🛠️ Use
+   - Conditions check karne ke liye
+   - True/False result ke liye
+--------------------------------------------------
+4️⃣ 📘 Undefined Data Type
+   1️⃣ 📖 Definition
+   Undefined ka matlab variable ki value assign nahi hui.
+
+   2️⃣ 💻 Syntax
+   let value;
+
+   3️⃣ 🛠️ Use
+   - Empty variable show karne ke liye
+   - Default unassigned value ke liye
+--------------------------------------------------
+5️⃣ 📘 Null Data Type
+   1️⃣ 📖 Definition
+   Null intentionally empty value ko show karta hai.
+
+   2️⃣ 💻 Syntax
+   let data = null;
+
+   3️⃣ 🛠️ Use
+   - Empty value assign karne ke liye
+   - Data remove/show empty ke liye
+--------------------------------------------------
+6️⃣ 📘 Object Data Type
+   1️⃣ 📖 Definition
+   Object multiple values ko key-value pair me store karta hai.
+
+   2️⃣ 💻 Syntax
+   let user = {
+      name: "Faiz",
+      age: 18
+   };
+
+   3️⃣ 🛠️ Use
+   - Multiple related data store karne ke liye
+   - Real world objects banane ke liye
+--------------------------------------------------
+7️⃣ 📘 Array Data Type
+
+   1️⃣ 📖 Definition
+   Array multiple values ko ek variable me store karta hai.
+
+   2️⃣ 💻 Syntax
+   let fruits = ["Apple", "Mango", "Banana"];
+
+   3️⃣ 🛠️ Use
+   - Multiple items store karne ke liye
+   - Lists banane ke liye
+--------------------------------------------------
+8️⃣ 📘 BigInt Data Type
+
+   1️⃣ 📖 Definition
+   BigInt bohat bari integer values ko store karta hai.
+
+   2️⃣ 💻 Syntax
+   let bigNumber = 123456789123456789n;
+
+   3️⃣ 🛠️ Use
+   - Large numbers store karne ke liye
+   - Big calculations ke liye
+--------------------------------------------------
+9️⃣ 📘 Symbol Data Type
+
+   1️⃣ 📖 Definition
+   Symbol unique value create karta hai.
+
+   2️⃣ 💻 Syntax
+   let id = Symbol("id");
+
+   3️⃣ 🛠️ Use
+   - Unique identifiers banane ke liye
+   - Object properties unique rakhne ke liye
+--------------------------------------------------
+⭐🥇⭕⭕⭕✨✨✨JavaScript Arithmetic Operators
+1️⃣ 📘 Addition Operator (+)
+
+   1️⃣ 📖 Definition
+   Addition operator do values ko add karta hai.
+
+   2️⃣ 💻 Syntax
+   value1 + value2
+
+   3️⃣ 🛠️ Example
+   let a = 10;
+   let b = 5;
+
+   console.log(a + b);
+
+   4️⃣ 🛠️ Use
+   - Numbers add karne ke liye
+   - Total calculate karne ke liye
+
+--------------------------------------------------
+
+2️⃣ 📘 Subtraction Operator (-)
+
+   1️⃣ 📖 Definition
+   Subtraction operator ek value me se doosri value minus karta hai.
+
+   2️⃣ 💻 Syntax
+   value1 - value2
+
+   3️⃣ 🛠️ Example
+   let a = 10;
+   let b = 5;
+
+   console.log(a - b);
+
+   4️⃣ 🛠️ Use
+   - Difference nikalne ke liye
+   - Values minus karne ke liye
+
+--------------------------------------------------
+
+3️⃣ 📘 Multiplication Operator (*)
+
+   1️⃣ 📖 Definition
+   Multiplication operator values ko multiply karta hai.
+
+   2️⃣ 💻 Syntax
+   value1 * value2
+
+   3️⃣ 🛠️ Example
+   let a = 10;
+   let b = 5;
+
+   console.log(a * b);
+
+   4️⃣ 🛠️ Use
+   - Values multiply karne ke liye
+   - Maths calculations ke liye
+
+--------------------------------------------------
+
+4️⃣ 📘 Division Operator (/)
+
+   1️⃣ 📖 Definition
+   Division operator values ko divide karta hai.
+
+   2️⃣ 💻 Syntax
+   value1 / value2
+
+   3️⃣ 🛠️ Example
+   let a = 10;
+   let b = 5;
+
+   console.log(a / b);
+
+   4️⃣ 🛠️ Use
+   - Values divide karne ke liye
+   - Average calculate karne ke liye
+
+--------------------------------------------------
+
+5️⃣ 📘 Modulus Operator (%)
+
+   1️⃣ 📖 Definition
+   Modulus operator division ka remainder return karta hai.
+
+   2️⃣ 💻 Syntax
+   value1 % value2
+
+   3️⃣ 🛠️ Example
+   let a = 10;
+   let b = 3;
+
+   console.log(a % b);
+
+   4️⃣ 🛠️ Use
+   - Remainder nikalne ke liye
+   - Even/Odd check karne ke liye
+
+--------------------------------------------------
+
+6️⃣ 📘 Exponentiation Operator (**)
+
+   1️⃣ 📖 Definition
+   Exponentiation operator power calculate karta hai.
+
+   2️⃣ 💻 Syntax
+   value1 ** value2
+
+   3️⃣ 🛠️ Example
+   let a = 2;
+
+   console.log(a ** 3);
+
+   4️⃣ 🛠️ Use
+   - Power calculate karne ke liye
+   - Advanced maths operations ke liye
+
+--------------------------------------------------
+
+7️⃣ 📘 Increment Operator (++)
+
+   1️⃣ 📖 Definition
+   Increment operator value ko 1 se increase karta hai.
+
+   2️⃣ 💻 Syntax
+   value++
+
+   3️⃣ 🛠️ Example
+   let a = 5;
+
+   a++;
+
+   console.log(a);
+
+   4️⃣ 🛠️ Use
+   - Counter increase karne ke liye
+   - Loops me use hota hai
+
+--------------------------------------------------
+
+8️⃣ 📘 Decrement Operator (--)
+
+   1️⃣ 📖 Definition
+   Decrement operator value ko 1 se decrease karta hai.
+
+   2️⃣ 💻 Syntax
+   value--
+
+   3️⃣ 🛠️ Example
+   let a = 5;
+   a--;
+   console.log(a);
+
+   4️⃣ 🛠️ Use
+   - Counter decrease karne ke liye
+   - Loops me use hota hai
