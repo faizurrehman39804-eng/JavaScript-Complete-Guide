@@ -1,0 +1,27 @@
+⭐1️⃣ JavaScript Add Karne Ke Tareeqe
+
+✨ Inline JavaScript
+✨ External JavaScript
+
+⭐2️⃣ JavaScript Output Methods
+
+✨ document.write()
+✨ console.log()
+
+⭐3️⃣ JavaScript Variables
+
+✨ var
+✨ let
+✨ const
+
+⭐4️⃣ JavaScript Data Types
+
+✨ String
+✨ Number
+✨ Boolean
+✨ Undefined
+✨ Null
+✨ Object
+✨ Array
+
+5️⃣
