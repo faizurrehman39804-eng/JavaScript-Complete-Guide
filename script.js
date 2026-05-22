@@ -29,7 +29,7 @@
 
 // document.write(x);
 
-//⭕⭕⭕✨✨✨5️⃣Operators
+//⭕⭕⭕✨✨✨5️⃣Arithmetic Operators
 // +
 // var a = 5;
 // var b = 5;
@@ -45,7 +45,47 @@
 // document.write(sum);
 
 // *division {5x5=25}
-var a = 5;
-var b = 5;
-var sum = a * b;
-document.write(sum);
+// var a = 5;
+// var b = 5;
+// var sum = a * b;
+// document.write(sum);
+
+// /division {}
+
+//⭕⭕⭕✨✨✨5️⃣comparison Operators 
+// 1️⃣ == equal to{check da value only}
+// var a = 5;
+// var b = 5;//true
+// var b = "6";//false
+// document.write(a == b);
+// --------------------------------------------------------------------------
+// 2️⃣ === equal value and equal type hona cahia 
+// var a = 5;
+// var b = "5";// false
+// var b = 5;// true
+// document.write(a === b);
+// --------------------------------------------------------------------------
+// 3️⃣ != not equal to
+// var a = 5;
+// var b = 5;// false
+// var b = 6;// true
+// document.write(a != b);
+// --------------------------------------------------------------------------
+// 4️⃣ !== not equal value or not equal type
+// var a = 5;
+// var b = "5";// true
+// var b = 5;// false
+// document.write(a !== b);
+// --------------------------------------------------------------------------
+// 5️⃣ > greater than
+// var a = 5;
+// var b = 6;//false
+// var b = 4;//true
+// document.write(a > b);
+// --------------------------------------------------------------------------
+// 6️⃣ < less than
+// var a = 5;
+// var b = 6;//true
+// var b = 4;//false
+// document.write(a < b);
+// --------------------------------------------------------------------------

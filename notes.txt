@@ -17,6 +17,7 @@
     💻 Syntax:-
         document.write("Hello World");
   4️⃣ console.log():-
+   
     📖 Definition:-
         console.log() browser console me output show karta hai.
     💻 Syntax:-     
@@ -164,7 +165,6 @@
 --------------------------------------------------
 ⭐🥇⭕⭕⭕✨✨✨JavaScript Arithmetic Operators
 1️⃣ 📘 Addition Operator (+)
-
    1️⃣ 📖 Definition
    Addition operator do values ko add karta hai.
 
@@ -174,17 +174,13 @@
    3️⃣ 🛠️ Example
    let a = 10;
    let b = 5;
-
    console.log(a + b);
 
    4️⃣ 🛠️ Use
    - Numbers add karne ke liye
    - Total calculate karne ke liye
-
---------------------------------------------------
-
+-------------------------------------------------
 2️⃣ 📘 Subtraction Operator (-)
-
    1️⃣ 📖 Definition
    Subtraction operator ek value me se doosri value minus karta hai.
 
@@ -194,17 +190,13 @@
    3️⃣ 🛠️ Example
    let a = 10;
    let b = 5;
-
    console.log(a - b);
 
    4️⃣ 🛠️ Use
    - Difference nikalne ke liye
    - Values minus karne ke liye
-
 --------------------------------------------------
-
 3️⃣ 📘 Multiplication Operator (*)
-
    1️⃣ 📖 Definition
    Multiplication operator values ko multiply karta hai.
 
@@ -220,9 +212,7 @@
    4️⃣ 🛠️ Use
    - Values multiply karne ke liye
    - Maths calculations ke liye
-
 --------------------------------------------------
-
 4️⃣ 📘 Division Operator (/)
 
    1️⃣ 📖 Definition
@@ -234,17 +224,13 @@
    3️⃣ 🛠️ Example
    let a = 10;
    let b = 5;
-
    console.log(a / b);
 
    4️⃣ 🛠️ Use
    - Values divide karne ke liye
    - Average calculate karne ke liye
-
 --------------------------------------------------
-
 5️⃣ 📘 Modulus Operator (%)
-
    1️⃣ 📖 Definition
    Modulus operator division ka remainder return karta hai.
 
@@ -254,17 +240,13 @@
    3️⃣ 🛠️ Example
    let a = 10;
    let b = 3;
-
    console.log(a % b);
 
    4️⃣ 🛠️ Use
    - Remainder nikalne ke liye
    - Even/Odd check karne ke liye
-
 --------------------------------------------------
-
 6️⃣ 📘 Exponentiation Operator (**)
-
    1️⃣ 📖 Definition
    Exponentiation operator power calculate karta hai.
 
@@ -273,17 +255,13 @@
 
    3️⃣ 🛠️ Example
    let a = 2;
-
    console.log(a ** 3);
 
    4️⃣ 🛠️ Use
    - Power calculate karne ke liye
    - Advanced maths operations ke liye
-
 --------------------------------------------------
-
 7️⃣ 📘 Increment Operator (++)
-
    1️⃣ 📖 Definition
    Increment operator value ko 1 se increase karta hai.
 
@@ -292,19 +270,14 @@
 
    3️⃣ 🛠️ Example
    let a = 5;
-
    a++;
 
    console.log(a);
-
    4️⃣ 🛠️ Use
    - Counter increase karne ke liye
    - Loops me use hota hai
-
 --------------------------------------------------
-
 8️⃣ 📘 Decrement Operator (--)
-
    1️⃣ 📖 Definition
    Decrement operator value ko 1 se decrease karta hai.
 
@@ -319,3 +292,88 @@
    4️⃣ 🛠️ Use
    - Counter decrease karne ke liye
    - Loops me use hota hai
+   
+//⭕⭕⭕✨✨✨5️⃣Assignment Operator (=)
+1️⃣ 📖 Definition
+   Assignment operator variable me value assign karne ke liye use hota hai.
+
+   2️⃣ 💻 Syntax
+   let a = 10;
+
+   3️⃣ 🛠️ Example
+   let a = 10;
+   console.log(a);
+--------------------------------------------------
+2️⃣ 📘 Addition Assignment Operator (+=)
+   1️⃣ 📖 Definition
+   Addition assignment operator value add karke variable me store karta hai.
+
+   2️⃣ 💻 Syntax
+   variable += value
+
+   3️⃣ 🛠️ Example
+   let a = 10;
+   a += 5;
+   console.log(a);
+--------------------------------------------------
+3️⃣ 📘 Subtraction Assignment Operator (-=)
+   1️⃣ 📖 Definition
+   Subtraction assignment operator value minus karke variable me store karta hai.
+
+   2️⃣ 💻 Syntax
+   variable -= value
+
+   3️⃣ 🛠️ Example
+   let a = 10;
+   a -= 5;
+   console.log(a);
+--------------------------------------------------
+4️⃣ 📘 Multiplication Assignment Operator (*=)
+   1️⃣ 📖 Definition
+   Multiplication assignment operator value multiply karke variable me store karta hai.
+
+   2️⃣ 💻 Syntax
+   variable *= value
+
+   3️⃣ 🛠️ Example
+   let a = 10;
+   a *= 2;
+   console.log(a);
+--------------------------------------------------
+5️⃣ 📘 Division Assignment Operator (/=)
+   1️⃣ 📖 Definition
+   Division assignment operator value divide karke variable me store karta hai.
+
+   2️⃣ 💻 Syntax
+   variable /= value
+
+   3️⃣ 🛠️ Example
+   let a = 10;
+   a /= 2;
+   console.log(a);
+--------------------------------------------------
+6️⃣ 📘 Modulus Assignment Operator (%=)
+   1️⃣ 📖 Definition
+   Modulus assignment operator division ka remainder store karta hai.
+
+   2️⃣ 💻 Syntax
+   variable %= value
+
+   3️⃣ 🛠️ Example
+   let a = 10;
+   a %= 3;
+   console.log(a);
+--------------------------------------------------
+7️⃣ 📘 Exponentiation Assignment Operator (**=)
+   1️⃣ 📖 Definition
+   Exponentiation assignment operator power calculate karke variable me store karta hai.
+
+   2️⃣ 💻 Syntax
+   variable **= value
+
+   3️⃣ 🛠️ Example
+   let a = 2;
+   a **= 3;
+   console.log(a);
+
+

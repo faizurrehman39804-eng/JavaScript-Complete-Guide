@@ -34,3 +34,14 @@
 ✨ Exponentiation Operator (**)
 ✨ Increment Operator (++)
 ✨ Decrement Operator (--)
+
+6️⃣⭐ JavaScript Comparison Operators
+
+✨ Equal To Operator (==)
+✨ Strict Equal To Operator (===)
+✨ Not Equal To Operator (!=)
+✨ Strict Not Equal To Operator (!==)
+✨ Greater Than Operator (>)
+✨ Less Than Operator (<)
+✨ Greater Than or Equal To Operator (>=)
+✨ Less Than or Equal To Operator (<=)
