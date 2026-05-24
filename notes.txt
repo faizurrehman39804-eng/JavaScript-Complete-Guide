@@ -1,4 +1,4 @@
-🥇⭕⭕⭕✨✨✨JavaScript Add Karne Ke Ways
+🥇1️⃣⭕⭕⭕✨✨✨JavaScript Add Karne Ke Ways
   1️⃣ Inline JavaScript.
     📖 Definition:--
         Inline JavaScript HTML tag ke andar direct likhi jati hai.
@@ -10,8 +10,8 @@
     💻 Syntax:-
         js file ko pahla link karo gha html file sa es tarah <script src="script.js"></script>
         per os ka bath kame chrow karonga js ma.
-🥇⭕⭕⭕✨✨✨JavaScript Output Methods:-
-  3️⃣ document.write():-
+🥇2️⃣⭕⭕⭕✨✨✨JavaScript Output Methods:-
+  1️⃣ document.write():-
     📖 Definition:-
         document.write() webpage par direct text show karne ke liye use hota hai.
     💻 Syntax:-
@@ -22,13 +22,11 @@
         console.log() browser console me output show karta hai.
     💻 Syntax:-     
         console.log("Hello World");
-🥇⭕⭕⭕✨✨✨Comment in js single line & duble line cammente
+🥇3️⃣⭕⭕⭕✨✨✨Comment in js single line & duble line cammente
     1️⃣// This is a comment {select one line & contrle /}
     2️⃣/*This is a commentThis is another line*/ {select all line & contrle /}
 
-
-
-🥇⭕⭕⭕✨✨✨var let const
+🥇4️⃣⭕⭕⭕✨✨✨var let const
     1️⃣ 📖 Definition
       var JavaScript me variable banane ke liye use hota hai.
 
@@ -58,7 +56,7 @@
       - Constant value store karne ke liye
       - Value change nahi hoti
       
-🥇⭕⭕⭕✨✨✨JavaScript Data Types
+🥇5️⃣⭕⭕⭕✨✨✨JavaScript Data Types
 1️⃣ 📘 String Data Type
 
    1️⃣ 📖 Definition
@@ -163,7 +161,7 @@
    - Unique identifiers banane ke liye
    - Object properties unique rakhne ke liye
 --------------------------------------------------
-⭐🥇⭕⭕⭕✨✨✨JavaScript Arithmetic Operators
+🥇6️⃣⭕⭕⭕✨✨✨JavaScript Arithmetic Operators
 1️⃣ 📘 Addition Operator (+)
    1️⃣ 📖 Definition
    Addition operator do values ko add karta hai.
@@ -293,7 +291,7 @@
    - Counter decrease karne ke liye
    - Loops me use hota hai
    
-//⭕⭕⭕✨✨✨5️⃣Assignment Operator (=)
+🥇7️⃣⭕⭕⭕✨✨✨Assignment Operator (=)
 1️⃣ 📖 Definition
    Assignment operator variable me value assign karne ke liye use hota hai.
 
@@ -375,5 +373,142 @@
    let a = 2;
    a **= 3;
    console.log(a);
+   --------------------------------------------------
+🥇8️⃣⭕⭕⭕✨✨✨ JavaScript Comparison Operators
+   1️⃣ Equal To Operator (==)
+      📖 Definition:
+      Do values ko compare karta hai aur check karta hai ke equal hain ya nahi.
 
+      💻 Syntax:
+      value1 == value2
 
+      🛠️ Example:
+      let a = 10;
+      let b = "10";
+      console.log(a == b);
+      --------------------------------------------------
+   2️⃣ Strict Equal To Operator (===)
+      📖 Definition:
+      Values aur data type dono compare karta hai.
+
+      💻 Syntax:
+      value1 === value2
+
+      🛠️ Example:
+      let a = 10;
+      let b = "10";
+      console.log(a === b);
+      --------------------------------------------------
+   3️⃣ Not Equal To Operator (!=)
+      📖 Definition:
+      Check karta hai ke values equal nahi hain.
+
+      💻 Syntax:
+      value1 != value2
+
+      🛠️ Example:
+      let a = 10;
+      let b = 5;
+      console.log(a != b);
+      --------------------------------------------------
+   4️⃣ Strict Not Equal To Operator (!==)
+      📖 Definition:
+      Values aur data type dono check karta hai ke equal nahi hain.
+
+      💻 Syntax:
+      value1 !== value2
+
+      🛠️ Example:
+      let a = 10;
+      let b = "10";
+      console.log(a !== b);
+      --------------------------------------------------
+   5️⃣ Greater Than Operator (>)
+      📖 Definition:
+      Check karta hai ke pehli value doosri se bari hai.
+
+      💻 Syntax:
+      value1 > value2
+
+      🛠️ Example:
+      let a = 10;
+      let b = 5;
+      console.log(a > b);
+      --------------------------------------------------
+   6️⃣ Less Than Operator (<)
+      📖 Definition:
+      Check karta hai ke pehli value doosri se choti hai.
+
+      💻 Syntax:
+      value1 < value2
+
+      🛠️ Example:
+      let a = 5;
+      let b = 10;
+      console.log(a < b);
+      --------------------------------------------------
+   7️⃣ Greater Than or Equal To Operator (>=)
+      📖 Definition:
+      Check karta hai ke value bari ya equal hai.
+
+      💻 Syntax:
+      value1 >= value2
+
+      🛠️ Example:
+      let a = 10;
+      let b = 10;
+      console.log(a >= b);
+      --------------------------------------------------
+   8️⃣ Less Than or Equal To Operator (<=)
+      📖 Definition:
+      Check karta hai ke value choti ya equal hai.
+
+      💻 Syntax:
+      value1 <= value2
+
+      🛠️ Example:
+      let a = 5;
+      let b = 10;
+      console.log(a <= b);
+
+      --------------------------------------------------
+==================================================
+🥇9️⃣⭕⭕⭕✨✨✨JavaScript Logical Operators
+   1️⃣ 📘 Logical AND Operator (&&)
+      1️⃣ 📖 Definition
+      Logical AND operator check karta hai ke dono conditions true hain ya nahi.
+      ager ek bi false ho tho return false ho gha. ya use hotha ha if elese satatment ma.
+
+      2️⃣ 💻 Syntax
+      condition1 && condition2
+
+      3️⃣ 🛠️ Example
+      let age = 20;
+      let hasID = true;
+      console.log(age >= 18 && hasID);
+   --------------------------------------------------
+   2️⃣ 📘 Logical OR Operator (||)
+      1️⃣ 📖 Definition
+      Logical OR operator check karta hai ke kam az kam ek condition true hai ya nahi.
+
+      2️⃣ 💻 Syntax
+      condition1 || condition2
+
+      3️⃣ 🛠️ Example
+      let isAdmin = false;
+      let isEditor = true;
+      console.log(isAdmin || isEditor);
+   --------------------------------------------------
+   3️⃣ 📘 Logical NOT Operator (!)
+         ager kisi value ka pata laghana ho ka ya true ha ya false toh os ka samna !! laghan sa oss ka sahi nature pata chel ghy gha 
+         1! lagjna sa wo os ka sghalte baty gha orr 2 laghana sa sahi condition bata da gha  
+      
+      1️⃣ 📖 Definition
+      Logical NOT operator condition ka opposite result deta hai.
+
+      2️⃣ 💻 Syntax
+      !condition
+
+      3️⃣ 🛠️ Example
+      let isLoggedIn = false;
+      console.log(!isLoggedIn);

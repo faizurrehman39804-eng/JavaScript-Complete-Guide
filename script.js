@@ -89,3 +89,41 @@
 // var b = 4;//false
 // document.write(a < b);
 // --------------------------------------------------------------------------
+// 1️⃣if % else satatment 
+// var a = 5;
+// var b = "5";
+
+// if (a === b) {
+// if (a < b){
+//   alert("a is greater than b");
+// } else {
+//   alert("opsssssssssss");
+// }
+// --------------------------------------------------------------------------
+//⭕⭕⭕✨✨✨5️⃣comparison Logical Operators
+//  && operator in 
+// var x = 5;
+// var y = 7;
+
+// document.write(x > 3 && y > 5); // true
+// document.write(x > 3 && y > 9); // false
+// --------------------------------------------------------------------------
+// || operator
+// var x = 5;
+// var y = 7;
+
+// document.write(x > 3 || y > 9); // true 1 value sahi ha 
+// document.write(x < 3 || y < 5); // false 2 ghalat ha
+// --------------------------------------------------------------------------
+// ! operator
+// var x = 5;
+// var y = 7;
+
+// document.write(!(x > 3)); // false
+// document.write(!(y > 9)); // true
+
+
+
+
+
+

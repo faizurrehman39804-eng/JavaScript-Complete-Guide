@@ -1,47 +1,100 @@
-⭐1️⃣ JavaScript Add Karne Ke Tareeqe
+⭐⭐⭐⭕⭕⭕1️⃣ JavaScript Add Karne Ke Tareeqe
 
-✨ Inline JavaScript
-✨ External JavaScript
+✨1️⃣ Inline JavaScript
+✨2️⃣ External JavaScript
 
-⭐2️⃣ JavaScript Output Methods
+⭐⭐⭐⭕⭕⭕2️⃣ JavaScript Output Methods
 
-✨ document.write()
-✨ console.log()
+✨1️⃣ document.write()
+✨2️⃣ console.log()
 
-⭐3️⃣ JavaScript Variables
+⭐⭐⭐⭕⭕⭕3️⃣ in JavaScript Comment
 
-✨ var
-✨ let
-✨ const
+✨1️⃣ single line
+✨2️⃣ duble line cammente
 
-⭐4️⃣ JavaScript Data Types
+⭐⭐⭐⭕⭕⭕4️⃣ JavaScript Variables
 
-✨ String
-✨ Number
-✨ Boolean
-✨ Undefined
-✨ Null
-✨ Object
-✨ Array
+✨1️⃣ var
+✨2️⃣ let
+✨3️⃣ const
 
-5️⃣⭐ JavaScript Arithmetic Operators
+⭐⭐⭐  ⭕⭕⭕5️⃣ JavaScript Data Types
 
-✨ Addition Operator (+)
-✨ Subtraction Operator (-)
-✨ Multiplication Operator (*)
-✨ Division Operator (/)
-✨ Modulus Operator (%)
-✨ Exponentiation Operator (**)
-✨ Increment Operator (++)
-✨ Decrement Operator (--)
+  ✨1️⃣ String
+  ✨2️⃣ Number
+  ✨3️⃣ Boolean
+  ✨4️⃣ Undefined
+  ✨5️⃣ Null
+  ✨6️⃣ Object
+  ✨7️⃣ Array
 
-6️⃣⭐ JavaScript Comparison Operators
+⭐⭐⭐⭕⭕⭕ 6️⃣JavaScript Arithmetic Operators
 
-✨ Equal To Operator (==)
-✨ Strict Equal To Operator (===)
-✨ Not Equal To Operator (!=)
-✨ Strict Not Equal To Operator (!==)
-✨ Greater Than Operator (>)
-✨ Less Than Operator (<)
-✨ Greater Than or Equal To Operator (>=)
-✨ Less Than or Equal To Operator (<=)
+  ✨1️⃣Addition Operator (+)
+  ✨2️⃣Subtraction Operator (-)
+  ✨3️⃣Multiplication Operator (*)
+  ✨4️⃣Division Operator (/)
+  ✨5️⃣Modulus Operator (%)
+  ✨6️⃣Exponentiation Operator (**)
+  ✨7️⃣Increment Operator (++)
+  ✨8️⃣Decrement Operator (--)
+
+
+⭐⭐⭐⭕⭕⭕7️⃣   JavaScript Assignment Operators
+
+  ✨1️⃣ Assignment Operator (=)
+  ✨2️⃣ Addition Assignment Operator (+=)
+  ✨3️⃣ Subtraction Assignment Operator (-=)
+  ✨4️⃣ Multiplication Assignment Operator (*=)
+  ✨5️⃣ Division Assignment Operator (/=)
+  ✨6️⃣ Modulus Assignment Operator (%=)
+  ✨7️⃣ Exponentiation Assignment Operator (**=)
+
+⭐⭐⭐⭕⭕⭕8️⃣ JavaScript Comparison Operators
+
+  ✨1️⃣ Equal To Operator (==)
+  ✨2️⃣ Strict Equal To Operator (===)
+  ✨3️⃣ Not Equal To Operator (!=)
+  ✨4️⃣ Strict Not Equal To Operator (!==)
+  ✨5️⃣ Greater Than Operator (>)
+  ✨6️⃣ Less Than Operator (<)
+  ✨7️⃣ Greater Than or Equal To Operator (>=)
+  ✨8️⃣ Less Than or Equal To Operator (<=)
+
+9️⃣⭐⭐⭐⭕⭕⭕ JavaScript Logical Operators
+
+  1️⃣✨ Logical AND Operator (&&)
+  2️⃣✨ Logical OR Operator (||)
+  3️⃣✨ Logical NOT Operator (!)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1️⃣
+2️⃣
+3️⃣
+4️⃣
+5️⃣
+6️⃣
+7️⃣
+8️⃣
+9️⃣
+🔟
