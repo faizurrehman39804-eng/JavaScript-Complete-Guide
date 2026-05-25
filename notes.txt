@@ -25,7 +25,6 @@
 🥇3️⃣⭕⭕⭕✨✨✨Comment in js single line & duble line cammente
     1️⃣// This is a comment {select one line & contrle /}
     2️⃣/*This is a commentThis is another line*/ {select all line & contrle /}
-
 🥇4️⃣⭕⭕⭕✨✨✨var let const
     1️⃣ 📖 Definition
       var JavaScript me variable banane ke liye use hota hai.
@@ -55,52 +54,51 @@
       3️⃣ 🛠️ Use
       - Constant value store karne ke liye
       - Value change nahi hoti
-      
 🥇5️⃣⭕⭕⭕✨✨✨JavaScript Data Types
-1️⃣ 📘 String Data Type
+   1️⃣ 📘 String Data Type
 
-   1️⃣ 📖 Definition
-   String text ya characters ko store karta hai.
+      1️⃣ 📖 Definition
+      String text ya characters ko store karta hai.
 
-   2️⃣ 💻 Syntax
-   let name = "Faiz";String
+      2️⃣ 💻 Syntax
+      let name = "Faiz";String
 
-2️⃣ 📘 Number Data Type
+   2️⃣ 📘 Number Data Type
 
-   1️⃣ 📖 Definition
-   Number numeric values ko store karta hai.
+      1️⃣ 📖 Definition
+      Number numeric values ko store karta hai.
 
-   2️⃣ 💻 Syntax
-   let age = 18;
+      2️⃣ 💻 Syntax
+      let age = 18;
 
-   3️⃣ 🛠️ Use
-   - Maths calculations ke liye
-   - Numeric data store karne ke liye
+      3️⃣ 🛠️ Use
+      - Maths calculations ke liye
+      - Numeric data store karne ke liye
+      --------------------------------------------------
+   3️⃣ 📘 Boolean Data Type
+
+      1️⃣ 📖 Definition
+      Boolean sirf true ya false value store karta hai.
+
+      2️⃣ 💻 Syntax
+      let isStudent = true;
+
+      3️⃣ 🛠️ Use
+      - Conditions check karne ke liye
+      - True/False result ke liye
    --------------------------------------------------
-3️⃣ 📘 Boolean Data Type
+   4️⃣ 📘 Undefined Data Type
+      1️⃣ 📖 Definition
+      Undefined ka matlab variable ki value assign nahi hui.
 
-   1️⃣ 📖 Definition
-   Boolean sirf true ya false value store karta hai.
+      2️⃣ 💻 Syntax
+      let value;
 
-   2️⃣ 💻 Syntax
-   let isStudent = true;
-
-   3️⃣ 🛠️ Use
-   - Conditions check karne ke liye
-   - True/False result ke liye
---------------------------------------------------
-4️⃣ 📘 Undefined Data Type
-   1️⃣ 📖 Definition
-   Undefined ka matlab variable ki value assign nahi hui.
-
-   2️⃣ 💻 Syntax
-   let value;
-
-   3️⃣ 🛠️ Use
-   - Empty variable show karne ke liye
-   - Default unassigned value ke liye
---------------------------------------------------
-5️⃣ 📘 Null Data Type
+      3️⃣ 🛠️ Use
+      - Empty variable show karne ke liye
+      - Default unassigned value ke liye
+   --------------------------------------------------
+ 5️⃣ 📘 Null Data Type
    1️⃣ 📖 Definition
    Null intentionally empty value ko show karta hai.
 
@@ -110,7 +108,6 @@
    3️⃣ 🛠️ Use
    - Empty value assign karne ke liye
    - Data remove/show empty ke liye
---------------------------------------------------
 6️⃣ 📘 Object Data Type
    1️⃣ 📖 Definition
    Object multiple values ko key-value pair me store karta hai.
@@ -124,7 +121,6 @@
    3️⃣ 🛠️ Use
    - Multiple related data store karne ke liye
    - Real world objects banane ke liye
---------------------------------------------------
 7️⃣ 📘 Array Data Type
 
    1️⃣ 📖 Definition
@@ -136,7 +132,6 @@
    3️⃣ 🛠️ Use
    - Multiple items store karne ke liye
    - Lists banane ke liye
---------------------------------------------------
 8️⃣ 📘 BigInt Data Type
 
    1️⃣ 📖 Definition
@@ -148,7 +143,6 @@
    3️⃣ 🛠️ Use
    - Large numbers store karne ke liye
    - Big calculations ke liye
---------------------------------------------------
 9️⃣ 📘 Symbol Data Type
 
    1️⃣ 📖 Definition
@@ -160,7 +154,6 @@
    3️⃣ 🛠️ Use
    - Unique identifiers banane ke liye
    - Object properties unique rakhne ke liye
---------------------------------------------------
 🥇6️⃣⭕⭕⭕✨✨✨JavaScript Arithmetic Operators
 1️⃣ 📘 Addition Operator (+)
    1️⃣ 📖 Definition
@@ -290,7 +283,7 @@
    4️⃣ 🛠️ Use
    - Counter decrease karne ke liye
    - Loops me use hota hai
-   
+--------------------------------------------------
 🥇7️⃣⭕⭕⭕✨✨✨Assignment Operator (=)
 1️⃣ 📖 Definition
    Assignment operator variable me value assign karne ke liye use hota hai.
@@ -512,3 +505,129 @@
       3️⃣ 🛠️ Example
       let isLoggedIn = false;
       console.log(!isLoggedIn);
+
+//🔟⭕⭕⭕✨✨✨JavaScript if and elese satatment
+   1️⃣ 📘 if Statement
+      📖 Definition:
+         if statement condition ko check karta hai.  
+         Agar condition true ho to code run hota hai.
+
+      💻 Syntax:
+      if (condition) {
+         console.log("preint theses tastatemesnet")
+      }
+
+      🛠️ Example:
+         let age = 18;
+
+         if (age >= 18) {
+            console.log("You are adult");
+         }
+
+      🛠️ Use:
+         - wesite ma ager ek 18 sale ka ha tho osa deskount do
+         orr ager oss sa zada ha tho per os ko raha na do
+   --------------------------------------------------
+   2️⃣ 📘 if else Statement
+      📖 Definition:
+      if else statement me agar condition true ho to if wala code run hota hai, warna else wala code run hota hai.
+
+      💻 Syntax:
+      if (condition) {
+         console.log("")
+      } else {
+         console.log("")
+      }
+
+      🛠️ Example:
+      let age = 16;
+
+      if (age >= 18) {
+         console.log("Adult");
+      } else {
+         console.log("Not Adult");
+      }
+
+      🛠️ real Use:
+      ager 18 sa kame ha tho deskount 30% orrr agar 18 sa above ha tho per 
+      10% deskount ha .
+   --------------------------------------------------
+   3️⃣ 📘 else if Statement
+      📖 Definition:
+      else if multiple conditions check karne ke liye use hota hai.
+
+      💻 Syntax:
+      if (condition1) {
+         // code
+      } else if (condition2) {
+         // code
+      } else {
+         // code
+      }
+
+      🛠️ Example:
+      let marks = 70;   
+
+      if (marks >= 80) {
+         console.log("A Grade");
+      } else if (marks >= 60) {
+         console.log("B Grade");
+      } else {
+         console.log("Fail");
+      }
+
+      🛠️ Use:
+      - Multiple conditions check karne ke liye
+      - Different results dene ke liye
+
+   --------------------------------------------------
+
+   4️⃣ 📘 Nested if Statement
+
+   📖 Definition:
+   Jab ek if statement ke andar doosri if statement use ho to usay nested if kehte hain.
+
+   💻 Syntax:
+   if (condition1) {
+      if (condition2) {
+         // code
+      }
+   }
+
+   🛠️ Example:
+   let age = 20;
+   let hasID = true;
+
+   if (age >= 18) {
+      if (hasID) {
+         console.log("Allowed");
+      }
+   }
+
+   🛠️ Use:
+   - Multiple level conditions ke liye
+   - Advanced checking ke liye
+
+   --------------------------------------------------
+
+   5️⃣ 📘 Ternary Operator
+
+   📖 Definition:
+   Short if else likhne ke liye ternary operator use hota hai.
+
+   💻 Syntax:
+   condition ? trueValue : falseValue
+
+   🛠️ Example:
+   let age = 20;
+
+   let result = age >= 18 ? "Adult" : "Minor";
+
+   console.log(result);
+
+   🛠️ Use:
+   - Short conditions likhne ke liye
+   - Simple if else replace karne ke liye
+
+
+

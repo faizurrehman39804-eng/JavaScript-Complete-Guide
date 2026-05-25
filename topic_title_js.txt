@@ -1,25 +1,25 @@
 ⭐⭐⭐⭕⭕⭕1️⃣ JavaScript Add Karne Ke Tareeqe
 
-✨1️⃣ Inline JavaScript
-✨2️⃣ External JavaScript
+  ✨1️⃣ Inline JavaScript
+  ✨2️⃣ External JavaScript
 
 ⭐⭐⭐⭕⭕⭕2️⃣ JavaScript Output Methods
 
-✨1️⃣ document.write()
-✨2️⃣ console.log()
+  ✨1️⃣ document.write()
+  ✨2️⃣ console.log()
 
 ⭐⭐⭐⭕⭕⭕3️⃣ in JavaScript Comment
 
-✨1️⃣ single line
-✨2️⃣ duble line cammente
+  ✨1️⃣ single line
+  ✨2️⃣ duble line cammente
 
 ⭐⭐⭐⭕⭕⭕4️⃣ JavaScript Variables
 
-✨1️⃣ var
-✨2️⃣ let
-✨3️⃣ const
+  ✨1️⃣ var
+  ✨2️⃣ let
+  ✨3️⃣ const
 
-⭐⭐⭐  ⭕⭕⭕5️⃣ JavaScript Data Types
+⭐⭐⭐⭕⭕⭕5️⃣ JavaScript Data Types
 
   ✨1️⃣ String
   ✨2️⃣ Number
@@ -40,8 +40,7 @@
   ✨7️⃣Increment Operator (++)
   ✨8️⃣Decrement Operator (--)
 
-
-⭐⭐⭐⭕⭕⭕7️⃣   JavaScript Assignment Operators
+⭐⭐⭐⭕⭕⭕7️⃣ JavaScript Assignment Operators
 
   ✨1️⃣ Assignment Operator (=)
   ✨2️⃣ Addition Assignment Operator (+=)
@@ -62,12 +61,16 @@
   ✨7️⃣ Greater Than or Equal To Operator (>=)
   ✨8️⃣ Less Than or Equal To Operator (<=)
 
-9️⃣⭐⭐⭐⭕⭕⭕ JavaScript Logical Operators
+⭐⭐⭐⭕⭕⭕9️⃣ JavaScript Logical Operators
 
   1️⃣✨ Logical AND Operator (&&)
   2️⃣✨ Logical OR Operator (||)
   3️⃣✨ Logical NOT Operator (!)
 
+⭐⭐⭐⭕⭕⭕🔟 JavaScript if and elese satatment
+  1️⃣✨if
+  2️⃣✨else
+  3️⃣✨if elseif else Statement
 
 
 

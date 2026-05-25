@@ -100,7 +100,7 @@
 //   alert("opsssssssssss");
 // }
 // --------------------------------------------------------------------------
-//⭕⭕⭕✨✨✨5️⃣comparison Logical Operators
+//⭕⭕⭕✨✨✨6️⃣Logical Operators
 //  && operator in 
 // var x = 5;
 // var y = 7;
@@ -121,8 +121,24 @@
 
 // document.write(!(x > 3)); // false
 // document.write(!(y > 9)); // true
+//⭕⭕⭕✨✨✨6️🔟if else satatment
+// let a = 5;
+// let b = 10;
+
+// if (a > b) {
+//   document.write("a is less");
+// }else 
+//  document.write("b is greater");
 
 
+// let a = "100";// string return error
+// let a = 100;// same data type correct
+// let b = 100;
+
+// if (a === b) {
+//   document.write("a is equal to b and same type");
+//  }else 
+//   document.write("b is equal to a but not same type");
 
 
 
