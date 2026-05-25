@@ -465,7 +465,7 @@
       console.log(a <= b);
 
       --------------------------------------------------
-==================================================
+--------------------------------------------------
 🥇9️⃣⭕⭕⭕✨✨✨JavaScript Logical Operators
    1️⃣ 📘 Logical AND Operator (&&)
       1️⃣ 📖 Definition
@@ -505,16 +505,90 @@
       3️⃣ 🛠️ Example
       let isLoggedIn = false;
       console.log(!isLoggedIn);
+--------------------------------------------------
+🥇🔟⭕⭕⭕✨✨✨ JavaScript Unary Operators
+   📖 Definition:
+   Unary operator sirf ek value ya operand (value ya variable) par kaam karta hai.
+   --------------------------------------------------
+   1️⃣ 📘 Unary Plus Operator (+)
+   📖 Definition:
+      String number ko number data type me convert karta hai.
 
-//🔟⭕⭕⭕✨✨✨JavaScript if and elese satatment
-   1️⃣ 📘 if Statement
+   💻 Syntax:
+      +value
+
+   🛠️ Example:
+      let a = "10";
+      console.log(+a);
+   --------------------------------------------------
+   2️⃣ 📘 Unary Negation Operator (-)
       📖 Definition:
-         if statement condition ko check karta hai.  
-         Agar condition true ho to code run hota hai.
+      Positive value ko negative aur negative ko positive karta hai.
+
+   💻 Syntax:
+      -value
+
+   🛠️ Example:
+      let a = 10;
+      console.log(-a);
+   --------------------------------------------------
+   3️⃣ 📘 Increment Operator (++)
+   📖 Definition:
+   Value ko 1 se increase karta hai.
+
+   💻 Syntax:
+   variable++
+
+   🛠️ Example:
+   let a = 5;
+   a++;
+   console.log(a);
+   --------------------------------------------------
+   4️⃣ 📘 Decrement Operator (--)
+   📖 Definition:
+   Value ko 1 se decrease karta hai.
+
+   💻 Syntax:
+   variable--
+
+   🛠️ Example:
+   let a = 5;
+   a--;
+   console.log(a);
+   ------------------------------------------------
+   5️⃣ 📘 Logical NOT Operator (!)
+   📖 Definition:
+   True ko false aur false ko true karta hai.
+
+   💻 Syntax:
+   !condition
+
+   🛠️ Example:
+   let isLoggedIn = false;
+   console.log(!isLoggedIn);
+   ------------------------------------------------
+   6️⃣ 📘 typeof Operator
+      📖 Definition:
+      typeof operator kisi variable ya value ka data type check karta hai.
 
       💻 Syntax:
-      if (condition) {
-         console.log("preint theses tastatemesnet")
+      typeof value
+
+      🛠️ Example:
+      let a = "Hello";
+
+      console.log(typeof a);
+--------------------------------------------------
+🥇1️⃣1️⃣:⭕⭕⭕✨✨✨ if else satatment
+   // if and elese satatment
+      1️⃣ 📘 if Statement
+         📖 Definition:
+            if statement condition ko check karta hai.  
+            Agar condition true ho to code run hota hai.
+
+         💻 Syntax:
+         if (condition) {
+            console.log("preint theses tastatemesnet")
       }
 
       🛠️ Example:
@@ -578,56 +652,55 @@
 
       🛠️ Use:
       - Multiple conditions check karne ke liye
-      - Different results dene ke liye
-
+      es na treple satatment use hotha ha 
    --------------------------------------------------
-
    4️⃣ 📘 Nested if Statement
 
-   📖 Definition:
-   Jab ek if statement ke andar doosri if statement use ho to usay nested if kehte hain.
+      📖 Definition:
+      Jab ek if statement ke andar doosri if statement use ho to usay nested if kehte hain.
 
-   💻 Syntax:
-   if (condition1) {
-      if (condition2) {
-         // code
+      💻 Syntax:
+      if (condition1) {
+         if (condition2) {
+            // code
+         }
       }
-   }
 
-   🛠️ Example:
-   let age = 20;
-   let hasID = true;
+      🛠️ Example:
+      let age = 20;
+      let hasID = true;
 
-   if (age >= 18) {
-      if (hasID) {
-         console.log("Allowed");
+      if (age >= 18) {
+         if (hasID) {
+            console.log("Allowed");
+         }
       }
-   }
 
-   🛠️ Use:
-   - Multiple level conditions ke liye
-   - Advanced checking ke liye
+      🛠️ Use:
+      - Multiple level conditions ke liye
+      - Advanced checking ke liye
 
+      --------------------------------------------------
+
+      5️⃣ 📘 Ternary Operator
+
+      📖 Definition:
+      Short if else likhne ke liye ternary operator use hota hai.
+
+      💻 Syntax:
+      condition ? trueValue : falseValue
+
+      🛠️ Example:
+      let age = 20;
+
+      let result = age >= 18 ? "Adult" : "Minor";
+
+      console.log(result);
+
+      🛠️ Use:
+      - Short conditions likhne ke liye
+      - Simple if else replace karne ke liye
    --------------------------------------------------
-
-   5️⃣ 📘 Ternary Operator
-
-   📖 Definition:
-   Short if else likhne ke liye ternary operator use hota hai.
-
-   💻 Syntax:
-   condition ? trueValue : falseValue
-
-   🛠️ Example:
-   let age = 20;
-
-   let result = age >= 18 ? "Adult" : "Minor";
-
-   console.log(result);
-
-   🛠️ Use:
-   - Short conditions likhne ke liye
-   - Simple if else replace karne ke liye
 
 
 

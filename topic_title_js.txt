@@ -67,11 +67,29 @@
   2️⃣✨ Logical OR Operator (||)
   3️⃣✨ Logical NOT Operator (!)
 
-⭐⭐⭐⭕⭕⭕🔟 JavaScript if and elese satatment
+⭐⭐⭐⭕⭕⭕🔟  JavaScript Unary Operators Names
+  ⭐
+  ✨ Unary Plus Operator (+)
+
+  ✨ Unary Negation Operator (-)
+
+  ✨ Increment Operator (++)
+
+  ✨ Decrement Operator (--)
+
+  ✨ Logical NOT Operator (!)
+
+  ✨ typeof Operator
+
+  ✨ delete Operator
+
+  ✨ void Operator
+
+⭐⭐⭐⭕⭕⭕1️⃣1️⃣ if else satatment
   1️⃣✨if
   2️⃣✨else
   3️⃣✨if elseif else Statement
-
++
 
 
 

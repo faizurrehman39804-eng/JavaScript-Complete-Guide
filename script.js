@@ -140,6 +140,16 @@
 //  }else 
 //   document.write("b is equal to a but not same type");
 
+// if esle if satatment eaxcpale like sfterwer
+// let age = 19;
+
+// if (age < 18) {
+//   document.write("20% discount");
+// } else if (age >= 18 && age <= 20) {
+//   document.write("10% discount");
+// } else {
+//   document.write("No discount");
+// }
 
 
 
