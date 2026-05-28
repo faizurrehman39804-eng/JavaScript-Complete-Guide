@@ -151,5 +151,9 @@
 //   document.write("No discount");
 // }
 
+// ternary operator
+var age = 19;
+var x = 10;
+  x = (age < 20) ? "True" :  "false"; 
 
-
+document.write(x);

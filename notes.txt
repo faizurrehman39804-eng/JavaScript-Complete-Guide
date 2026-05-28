@@ -701,6 +701,27 @@
       - Short conditions likhne ke liye
       - Simple if else replace karne ke liye
    --------------------------------------------------
+--------------------------------------------------
+🥇1️⃣2️⃣:⭕⭕⭕✨✨✨ Ternary Operator
+   🔟 📘 Ternary Operator
+      1️⃣ 📖 Definition
+      Ternary Operator short if-else condition likhne ke liye use hota hai.
+      ek line wala kode ka lia.
+
+      2️⃣ 💻 Syntax
+      condition ? trueValue : falseValue;
+
+      3️⃣ 💻 Example
+      let age = 18;
+      age >= 18 ? "Adult" : "Child";
+
+      4️⃣ 🛠️ Use
+      - Short conditions likhne ke liye
+      - if-else ko simple banane ke liye
+--------------------------------------------------
+
+
+
 
 
 
