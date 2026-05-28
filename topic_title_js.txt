@@ -89,9 +89,15 @@
   1️⃣✨if
   2️⃣✨else
   3️⃣✨if elseif else Statement
-+
 
+⭐⭐⭐⭕⭕⭕1️⃣2️⃣  switch statement
+    - switch
+    - case
+    - break
+    - default
 
+⭐⭐⭐⭕⭕⭕1️⃣2️⃣Ternary Operator
+     condition ? true : false;
 
 
 

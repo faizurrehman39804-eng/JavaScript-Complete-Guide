@@ -719,6 +719,41 @@
       - Short conditions likhne ke liye
       - if-else ko simple banane ke liye
 --------------------------------------------------
+🥇⭕⭕⭕✨✨✨1️⃣3️⃣ Switch Statement
+   1️⃣ 📖 Definition
+      Switch Statement multiple conditions check karne ke liye use hota hai.
+
+   2️⃣ 💻 Syntax
+   switch(value){
+      case 1:
+         // code
+         break;
+
+      case 2:
+         // code
+         break;
+
+      default:
+         // code
+   }
+   3️⃣ 💻 Example
+   let day = 1;
+
+   switch(day){
+      case 1:
+         console.log("Monday");
+         break;
+
+      case 2:
+         console.log("Tuesday");
+         break;
+
+      default:
+         console.log("Invalid Day");
+   }
+   4️⃣ 🛠️ Use
+   - Multiple conditions check karne ke liye
+   - if-else ko simple banane ke liye
 
 
 

@@ -152,8 +152,27 @@
 // }
 
 // ternary operator
-var age = 19;
-var x = 10;
-  x = (age < 20) ? "True" :  "false"; 
+// var age = 19;
+// var x = 10;
+//   x = (age < 20) ? "True" :  "false"; 
 
-document.write(x);
+// document.write(x);
+
+
+// switch statement
+var day = 2;
+
+switch (day) {
+  case 1:
+    document.write("Monday");
+    break;
+  case 2:
+    document.write("Tuesday");
+    break;
+  case 3:
+    document.write("Wednesday");
+    break;
+  default:
+    document.write("Invalid day");
+}
+
