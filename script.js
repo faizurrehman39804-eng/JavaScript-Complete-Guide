@@ -121,7 +121,7 @@
 
 // document.write(!(x > 3)); // false
 // document.write(!(y > 9)); // true
-//⭕⭕⭕✨✨✨6️🔟if else satatment
+// ⭕⭕⭕✨✨✨6️🔟if else satatment
 // let a = 5;
 // let b = 10;
 
@@ -160,19 +160,48 @@
 
 
 // switch statement
-var day = 2;
+// var day = 2;
 
-switch (day) {
-  case 1:
-    document.write("Monday");
-    break;
-  case 2:
-    document.write("Tuesday");
-    break;
-  case 3:
-    document.write("Wednesday");
-    break;
-  default:
-    document.write("Invalid day");
+// switch (day) {
+//   case 1:
+//     document.write("Monday");
+//     break;
+//   case 2:
+//     document.write("Tuesday");
+//     break;
+//   case 3:
+//     document.write("Wednesday");
+//     break;
+//   default:
+//     document.write("Invalid day");
+// }
+
+
+// ⭕⭕⭕✨✨✨1️⃣4️⃣Alert and Prompt
+// alert("This is an external JavaScript alert!");
+
+// var a = "17";
+// var b = "17";
+
+// if(a === b) {
+//   alert("a is equal to b and same type");
+// } else {
+// alert("b is corect")}
+
+// var a = confirm("Do you want to continue?");
+// alert(a); 
+
+// if (a) {
+//   alert("You chose to continue!");
+// } else {
+//   alert("sorry for that!");
+// }
+
+var name = "fiaz ur rehman";
+
+
+if (name === "fiaz ur rehman") {
+  alert("Welcome, faiz ur rehman!");
+} else {
+  alert("Welcome, guest!");
 }
-

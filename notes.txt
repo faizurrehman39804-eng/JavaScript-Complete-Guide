@@ -752,11 +752,32 @@
          console.log("Invalid Day");
    }
    4️⃣ 🛠️ Use
-   - Multiple conditions check karne ke liye
-   - if-else ko simple banane ke liye
+      - Multiple conditions check karne ke liye
+      - if-else ko simple banane ke liye
 
+⭐⭐⭐⭕⭕⭕1️⃣4️⃣ Alert Box
+       16.1️⃣ 📖 Definition
+      Alert Box user ko message show karne ke liye use hota hai.
 
+       16.2️⃣ 💻 Syntax
+      alert("Hello World");
 
+       16.3️⃣ 🛠️ Use
+      - Message show karne ke liye
+      - Warning dene ke liye
+      - Testing ke liye
+
+   # 1️⃣7️⃣ 📘 Confirm Box
+
+      1️⃣ 📖 Definition
+         Confirm Box user se confirmation lene ke liye use hota hai.
+
+      2️⃣ 💻 Syntax
+         confirm("Are you sure?");
+
+      3️⃣ 🛠️ Use
+         - Yes/No confirmation ke liye
+         - Delete ya submit se pehle confirmation lene ke liye
 
 
 
